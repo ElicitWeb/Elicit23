@@ -6,6 +6,10 @@
     scroll-behavior: smooth;
 }
 
+nav {
+    z-index: 104;
+}
+
 :root {
     --mainColorLight: #5767aa;
     --secondaryColor: #db2b39;

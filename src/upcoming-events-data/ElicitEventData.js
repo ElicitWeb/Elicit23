@@ -10,7 +10,7 @@ export const ElicitEventData = {
     },
     {
       img: Poster1,
-      title: "Prompt Engineering",
+      title: "ImPromptO",
       detail: "This overnight event is all about unlocking the power of generative AI, where participants get to experiment and innovate with various AI technologies and models. With mentors guiding and advising you, learn to construct your own cutting edge models.",
       link: "",
     },
@@ -34,7 +34,7 @@ export const ElicitEventData = {
     },
     {
       img: Poster1,
-      title: "UI/UX",
+      title: "UXEvolve",
       detail: "An engaging overnight event that invites participants to explore the art of design by developing user interfaces and experiences. A perfect opportunity to enhance design skills and foster creativity, particularly in the context of website development.",
       link: "",
     },
@@ -60,7 +60,7 @@ export const ElicitEventData = {
     },
     {
       img: Poster1,
-      title: "Innovates",
+      title: "Elicit Expo",
       detail: "Innovates is an event where people or groups display their finished projects, often related to embedded systems. This exhibition is a chance for creators to share their work with a larger audience and get recognized for their accomplishments.",
       link: "",
     },
@@ -86,7 +86,7 @@ export const ElicitEventData = {
     },
     {
       img: Poster1,
-      title: "Prompt Engineering",
+      title: "ImPromptO",
       detail: "This overnight event is all about unlocking the power of generative AI, where participants get to experiment and innovate with various AI technologies and models. With mentors guiding and advising you, learn to construct your own cutting edge models.",
       link: "",
     },

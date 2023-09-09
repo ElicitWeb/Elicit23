@@ -14,7 +14,7 @@ export default function App() {
   const rounded4 = useTransform(count4, Math.round);
 
   useEffect(() => {
-    const animation = animate(count1, 420, { duration: 3 });
+    const animation = animate(count1, 500, { duration: 3 });
     return animation.stop;
   }, [count1]);
   useEffect(() => {
@@ -22,11 +22,11 @@ export default function App() {
     return animation.stop;
   }, [count2]);
   useEffect(() => {
-    const animation = animate(count3, 5, { duration: 3 });
+    const animation = animate(count3, 20, { duration: 3 });
     return animation.stop;
   }, [count3]);
   useEffect(() => {
-    const animation = animate(count4, 69, { duration: 3 });
+    const animation = animate(count4, 25, { duration: 3 });
     return animation.stop;
   }, [count4]);
 

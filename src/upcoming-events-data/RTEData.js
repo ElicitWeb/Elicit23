@@ -23,7 +23,7 @@ export const RTEEventsList = {
     RTEPoster: Decode,
     Title: "Decode 3.0",
     Detail: "Decode 3.0 is an unparalleled cryptic hunt event that not only challenges the participant’s intellect but also teleports them on a mesmerizing adventure through the intricate realms of ciphers and enigmas!",
-    Link: "/Upcoming-Events",
+    Link: "https://unstop.com/competitions/decode-30-elicit23-muj-acm-752561",
   },
   RTEEvent4: {
     eventId: "4",

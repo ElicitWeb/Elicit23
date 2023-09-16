@@ -10,7 +10,7 @@ export const ElicitEventData = {
     },
     {
       img: Poster1,
-      title: "Impromptu",
+      title: "Im-Prompt-O",
       detail: "This overnight event is all about unlocking the power of generative AI, where participants get to experiment and innovate with various AI technologies and models. With mentors guiding and advising you, learn to construct your own cutting edge models.",
       link: "https://unstop.com/competitions/prompt-engineering-elicit23-manipal-university-mu-jaipur-751459",
     },
@@ -86,7 +86,7 @@ export const ElicitEventData = {
     },
     {
       img: Poster1,
-      title: "Impromptu",
+      title: "Im-Prompt-O",
       detail: "This overnight event is all about unlocking the power of generative AI, where participants get to experiment and innovate with various AI technologies and models. With mentors guiding and advising you, learn to construct your own cutting edge models.",
       link: "https://unstop.com/competitions/prompt-engineering-elicit23-manipal-university-mu-jaipur-751459",
     },

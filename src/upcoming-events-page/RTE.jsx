@@ -121,19 +121,19 @@ const RTEContainer = () => {
             <a href="" className="DisabledDate">
               22
             </a>
-            <a onClick={() => RTEDateLink("RTEPoster4", "#RTEEvent4")} className="ActiveDate" id="RTEEvent4">
+            <a href="" className="DisabledDate">
               23
             </a>
-            <a onClick={() => RTEDateLink("RTEPoster4", "#RTEEvent4")} className="ActiveDate" id="RTEEvent4">
+            <a href="" className="DisabledDate">
               24
             </a>
             <a href="" className="DisabledDate">
               25
             </a>
-            <a href="" className="DisabledDate">
+            <a onClick={() => RTEDateLink("RTEPoster4", "#RTEEvent4")} className="ActiveDate" id="RTEEvent4">
               26
             </a>
-            <a href="" className="DisabledDate">
+            <a onClick={() => RTEDateLink("RTEPoster4", "#RTEEvent4")} className="ActiveDate" id="RTEEvent4">
               27
             </a>
             <a href="" className="DisabledDate">

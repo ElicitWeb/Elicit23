@@ -44,6 +44,12 @@ export const ElicitEventData = {
       detail: "A thrilling collaborative event to write code sections within a challenging time limit, mirroring a real relay race. This challenge enhances teamwork, coding skills, and adaptability while showcasing participants' ability to collaborate effectively under pressure.",
       link: "",
     },
+    {
+      img: "",
+      title: "",
+      detail: "",
+      link: "",
+    },
   ],
   31: [
     {
@@ -75,6 +81,12 @@ export const ElicitEventData = {
       title: "Hacks 8.0",
       detail: "Hacks 8.0 is an exhilarating 36-hour competition that immerses participants in a whirlwind of innovation and skill development. This event provides a unique platform for aspiring tech enthusiasts, who are eager to explore new technologies and ride the curve of technological success. Participants are challenged to construct prototypes and enhance their creations within the intense timeframe. This fast-paced environment is the perfect crucible for fostering creativity and honing abilities in design, development, and presentation.",
       link: "https://unstop.com/hackathons/hacks-80-elicit23-manipal-university-mu-jaipur-759426",
+    },
+    {
+      img: "",
+      title: "",
+      detail: "",
+      link: "",
     },
   ],
   32: [
@@ -118,6 +130,12 @@ export const ElicitEventData = {
       img: Poster1,
       title: "Open Mic",
       detail: "A platform for students to showcase their diverse talents, from singing to stand-ups and more. It's an opportunity to share creative expressions, connect with peers, and unleash artistic potential.",
+      link: "",
+    },
+    {
+      img: "",
+      title: "",
+      detail: "",
       link: "",
     },
   ],
